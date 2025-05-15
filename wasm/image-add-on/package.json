@@ -80,7 +80,7 @@
     "wireit": "^0.14.4"
   },
   "dependencies": {
-    "@types/google-apps-script": "^1.0.82",
+    "@types/google-apps-script": "^1.0.97",
     "fastestsmallesttextencoderdecoder": "^1.0.22"
   },
   "type": "module"
